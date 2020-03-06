@@ -1,0 +1,43 @@
+2019-12-18 Version 0.0.1
+-Building Library Database
+
+2019-12-19 Version 0.0.2
+-Setting up the basic environment
+-Setting up including mysql library
+-Added Book class
+-Added User class
+
+2019-12-20 Version 0.0.3
+-Added DBUtility class
+
+2019-12-21 Version 0.0.4
+-Added TimeUtility class
+-Added diplaying different memu for every role
+-Added a function of displaying book list
+
+2019-12-22 Version 0.0.5
+-Added a function of adding a new book
+-Added a function of querying a book
+-Added a function of deleting a book
+
+2019-12-23 Version 0.0.6
+-Added a function of displaying all record
+-Added a function of create user
+-Added a function of displaying all user
+
+2019-12-24 Version 0.0.7
+-Added a function of querying a book
+-Added a function of loaning a book
+
+2019-12-26 Version 0.0.8
+-Added a function of returning a book
+-Added a function of showing records
+-Added a function of renewing a record
+
+
+
+
+
+
+
+
